@@ -8,7 +8,7 @@ Only React
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:bertin/wideo_browser.git
+	> git clone git@github.com:bertin/video_browser.git
 	> cd video_browser
 	> npm install	( to install the dependencies )
 	> npm start		( to start the application )
